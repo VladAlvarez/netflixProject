@@ -1,3 +1,5 @@
 body {
+    background-repeat: no-repeat;
+    background-size: contain;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url("https://images.squarespace-cdn.com/content/v1/567e05c4e0327cd48ad079f3/1549393267064-EN79Y5H37HOO56UCN6KX/NETFLIX_FORM_03_wes.jpg");
 }
